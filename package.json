@@ -1,1 +1,1 @@
-{"name":"pho-my-tam-order","version":"4.0.0","private":true,"scripts":{"start":"node server.js"},"engines":{"node":">=20"}}
+{"name":"pho-my-tam-order","version":"5.0.0","private":true,"scripts":{"dev":"wrangler dev","deploy":"wrangler deploy"},"devDependencies":{"wrangler":"^4.40.0"}}
